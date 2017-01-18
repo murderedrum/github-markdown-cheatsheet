@@ -1,6 +1,6 @@
 # **Github Flavored Markdown Beginners Cheatsheet**
-##### Last Edited: 1-17-2017
-##### Version: v.17.01.17 (YY.MM.DD)
+##### `Last Edited: 1-17-2017`
+###### Version: v.17.01.17
 ### **Markdown Editor Built into Atom**
 
 Show rendered HTML markdown using `CTRL-SHIFT-m`.  ATOM enables HTML markdown for *.markdown, .md, .mdown, .mkd, .mkdown, .ron*, and *.txt* files.  HTML can also be added to the text.
@@ -12,7 +12,7 @@ Show rendered HTML markdown using `CTRL-SHIFT-m`.  ATOM enables HTML markdown fo
 [//]: # (Comment Type/Test #1)
 
 # **Headers**
-(Start line with the number of hashtags (#) as stated after the **H** to make the following headers.)
+(Start line with the number of hashtags (#) as stated after the **H** to make the following headers.  Note: H1 & H2 tags have horizontal rules underneith them.)
 # H1 tag
 alternative H1 tag
 ==================
@@ -102,8 +102,8 @@ Center 4 | Left 5  | Right 6
 (Add two tabs add unordered items - behavior can be strange and might change in future...)
 
 1. item
-  i. sub-item
-    a. sub-sub-item
+  1. sub-item
+    1. sub-sub-item
         * sub-sub-sub-item
 2. item
 3. item
