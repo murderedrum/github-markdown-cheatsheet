@@ -28,7 +28,7 @@ alternative H2 tag
 
 **You can encapsulate *italics* in bold**
 
-or * **bold** in italics...*
+or  _ __bold__ in italics..._
 
 Strikethough by surrounding text with \~\~ can ~~redact~~.
 
@@ -43,7 +43,8 @@ Strikethough by surrounding text with \~\~ can ~~redact~~.
 this is an `inline` quote
 
 ```
-A box of formated text```
+A box of formated text
+```
 
 > This is a blockquote
 
