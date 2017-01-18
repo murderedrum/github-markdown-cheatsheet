@@ -28,7 +28,7 @@ alternative H2 tag
 
 **You can encapsulate *italics* in bold**
 
-or  *have **bold** in italics.*
+or  *have __bold__ in italics.*
 
 Strikethough by surrounding text with \~\~ can ~~redact~~.
 
