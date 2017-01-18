@@ -3,7 +3,16 @@
 ###### Version: v.17.01.17
 ### **Markdown Editor Built into Atom**
 
-Show rendered HTML markdown using `CTRL-SHIFT-m`.  ATOM enables HTML markdown for *.markdown, .md, .mdown, .mkd, .mkdown, .ron*, and *.txt* files.  HTML can also be added to the text.
+Show rendered HTML markdown using `CTRL-SHIFT-m`.  ATOM enables HTML markdown for the following extensions:
+* .markdown
+* .md
+* .mdown
+* .mkd
+* .mkdown
+* .ron
+* .txt
+
+For these filetypes, Inline HTML is *mostly* allowed.
 
 #### Install [ :dizzy: Atom](https://atom.io/) for Windows, Mac or Linux.
 
