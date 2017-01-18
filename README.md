@@ -72,12 +72,12 @@ print("Hello World!")
 ````
 
 ```
- three ``` also works (no code formatting)```
+ three marks also works (no code formatting)```
 
 This is inline code ( surround text with \` ): `#!/bin/bash`
 
 # **Tables**
-(Use | for every column and - between header; Place | where  - meets.)
+(Use | for every column and - between header; Place | where  - meets.  Colons to set left, right, or center justification.)
 
 Header 1 | Header2 | Header 3
 :-------:|:--------|---------:
