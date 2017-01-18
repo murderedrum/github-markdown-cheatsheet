@@ -28,7 +28,7 @@ alternative H2 tag
 
 **You can encapsulate *italics* in bold**
 
-or  ***bold** in italics.*
+or  *have **bold** in italics.*
 
 Strikethough by surrounding text with \~\~ can ~~redact~~.
 
@@ -96,6 +96,7 @@ Center 4 | Left 5  | Right 6
 
 # **Ordered Lists**
 (Add two tabs add unordered items - behavior can be strange and might change in future...)
+
 1. item
   1. sub-item
     1. sub-sub-item
@@ -129,7 +130,7 @@ Center 4 | Left 5  | Right 6
 
 
 # **Inline HTML**
-(most HTML works with GitHub Flavored Markdown)
+(most HTML works with GitHub Flavored Markdown - example in Notice Section)
 
 # **Notice**
 CC0 - Ron Cotton
