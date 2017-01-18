@@ -75,15 +75,15 @@ print("Hello World!")
 ```
  three ``` also works (no code formatting)```
 
-This is inline code ( surround text with "\`" ): `#!/bin/bash`
+This is inline code ( surround text with \` ): `#!/bin/bash`
 
 # **Tables**
 (Use | for every column and - between header; Place | where  - meets.)
 
 Header 1 | Header2 | Header 3
----------|---------|----------
-Item 1   | Item 2  | Item 3
-Item 4   | Item 5  | Item 6
+:-------:|:--------|---------:
+Center 1 | Left 2  | Right 3
+Center 4 | Left 5  | Right 6
 
 # **Unordered Lists**
 (Use tabs for sub-items: + - or * can be used.)
@@ -127,6 +127,9 @@ Item 4   | Item 5  | Item 6
 
 \# I love hashtags \#
 
+
+# **Inline HTML**
+(most HTML works with GitHub Flavored Markdown)
 
 # **Notice**
 CC0 - Ron Cotton
