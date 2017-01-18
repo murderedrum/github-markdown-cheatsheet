@@ -1,7 +1,11 @@
 # **Github Flavored Markdown Beginners Cheatsheet**
+##### Last Edited: 1-17-2017
+##### Version: v.17.01.17 (YY.MM.DD)
 ### **Markdown Editor Built into Atom**
 
-Show rendered HTML markdown using `CTRL-SHIFT-m`.  ATOM enables HTML markdown for *.markdown, .md, .mdown, .mkd, .mkdown, .ron*, and *.txt* files.  HTML can also be added to the text.  Install [ :dizzy: Atom](https://atom.io/) for Windows, Mac or Linux.
+Show rendered HTML markdown using `CTRL-SHIFT-m`.  ATOM enables HTML markdown for *.markdown, .md, .mdown, .mkd, .mkdown, .ron*, and *.txt* files.  HTML can also be added to the text.
+
+#### Install [ :dizzy: Atom](https://atom.io/) for Windows, Mac or Linux.
 
 # **Comment**
 (If anything besides this line is seen in this Comment area **then that specific comment command is not working!**)
@@ -98,9 +102,9 @@ Center 4 | Left 5  | Right 6
 (Add two tabs add unordered items - behavior can be strange and might change in future...)
 
 1. item
-  1. sub-item
-    1. sub-sub-item
-    * sub-sub-sub-item
+  i. sub-item
+    a. sub-sub-item
+        * sub-sub-sub-item
 2. item
 3. item
 * item
