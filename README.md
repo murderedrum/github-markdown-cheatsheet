@@ -6,8 +6,6 @@ Show rendered HTML markdown using `CTRL-SHIFT-m`.  ATOM enables HTML markdown fo
 # **Comment**
 (If anything besides this line is seen in this Comment area **then that specific comment command is not working!**)
 [//]: # (Comment Type/Test #1)
-[//]: <> (Comment Type/Test #2)
-[comment]: <> (Comment Type/Test #3)
 
 # **Headers**
 (Start line with the number of hashtags (#) as stated after the **H** to make the following headers.)
@@ -30,7 +28,7 @@ alternative H2 tag
 
 **You can encapsulate *italics* in bold**
 
-or _ __bold__ in italics..._
+or * **bold** in italics...*
 
 Strikethough by surrounding text with \~\~ can ~~redact~~.
 
