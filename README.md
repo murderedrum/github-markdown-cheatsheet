@@ -28,7 +28,7 @@ alternative H2 tag
 
 **You can encapsulate *italics* in bold**
 
-or  _ __bold__ in italics..._
+or  ***bold** in italics.*
 
 Strikethough by surrounding text with \~\~ can ~~redact~~.
 
@@ -72,7 +72,8 @@ print("Hello World!")
 ````
 
 ```
- three marks also works (no code formatting)```
+three marks also works (no code formatting)
+```
 
 This is inline code ( surround text with \` ): `#!/bin/bash`
 
